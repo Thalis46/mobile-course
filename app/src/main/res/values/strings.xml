@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Third TutorialApp</string>
+
+    <string-array name="items">
+        <item>peach</item>
+        <item>tomato</item>
+        <item>squash</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$0.99</item>
+        <item>$1.99</item>
+        <item>$0.69</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Fresh PEaches from america</item>
+        <item>Fresh tomatoes from närpiö</item>
+        <item>Fresh squash from CALI</item>
+    </string-array>
+</resources>
